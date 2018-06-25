@@ -10,7 +10,8 @@ Therefore:
 
 Help people choose type by providing a font browsing interface that affords separating typefaces into smaller, logical groups, and offers ways of easily reviewing many typefaces at once.
 
-Sketch
+![Patterns Sketch Browse Fonts](../img/pattern-sketch-browse-fonts.png)
+
 If it makes sense for your style of integration, the highest level of separation is the ability to narrow the scope of available fonts, by collection and browse mode (scope group).
 
 Next, allow people to refine the selection of fonts within a given scope by searching for typefaces (search filter), sorting family cards by different criteria (card sort chooser), and filtering based on a variety of typographic classifications, properties, and glyph support aspects (filter menu).
@@ -19,7 +20,8 @@ Give people tools to review scoped and filtered typefaces at a glance. This way,
 
 As you incorporate these things into the font browsing interface, make sure that the active group of fonts remains the most prominent visual element in the view. Show up to 16 family cards at a time (family card), with grid and list view options. Use pagination with previous/next buttons so people can handle deep selection results in an organized and predictable way.
 
-Grid and list view
+![Patterns Sketch Browse Fonts Grid List](../img/pattern-sketch-browse-fonts-grid-list.png)
+
 When someone selects a typeface, offer more details about it specifically (family detail view).
 
 Finally, including the Adobe Typekit logomark is required.

@@ -12,6 +12,7 @@ Present visual search results in a way that is contextually meaningful and promp
 
 Show visual search results alongside the image that was evaluated, and use OCR text as the specimen text for each font variation. This helps people compare the letterforms and evaluate the quality of results.
 
+![Example of a visual search region, a coordinate-defined area of an image](../img/pattern-visual-search-results.png)
 
 If the visual search was initiated with a specific text element in mind (say, a heading on your application’s canvas), consider using the text from that element as the specimen text for each font variation in the results list. In a case like this, the user cares about the content of the text element for which they’re trying to choose a font more than the content of the visual search image.
 

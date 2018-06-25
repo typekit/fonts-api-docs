@@ -8,12 +8,14 @@ Filters exclude irrelevant typefaces, making browsing more productive. Enabling 
 
 For example, let’s say we’re looking for a thin sans — a narrow one that might work well for headings. Activating the “Sans Serif”, “Condensed”, “Light”, and “High x-height” filters helps us browse for fonts that match these criteria, by hiding fonts that don’t match.
 
-gif of filtering
+![Filtering Animated GIF](../img/filter-menu-01.gif)
 
 Therefore:
+
 Offer a variety of filters that limit the selection of fonts based on style and glyph support. Allow multiple filters to be active at the same time, amplifying their usefulness. Use filters as a way to reinforce people’s knowledge about type with icons and accurate labels.
 
-sketch of filter menu
+![Sketch of filter menu](../img/filter-menu-02.png)
+
 Filters should be a visually rich part of the browse fonts interface. Besides being very helpful for the task of browsing, filters are a general reminder of the diverse characteristics of type. Part of the value of integrating Typekit is empowering people to make good typographic decisions, and knowledge about the diverse qualities of type is, as they say, power.
 
 The filter menu looks great and works well when it is visible by default. However, it should not overpower the family cards. Filters can be collapsed within an icon or button if necessary, to make more space for family cards. If the filter menu content is too tall, let it scroll vertically.

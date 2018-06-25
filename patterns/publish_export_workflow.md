@@ -10,14 +10,16 @@ Settle font licensing entitlement early in the publish or export process, and cl
 
 Make publishing and exporting as easy as possible by telling people about any font entitlements that need to be resolved as early as possible. Consider offering a subtle warning as people browse fonts, use fonts, or think about publishing/exporting a project.
 
-Sketch of UI indicating a Typekit connection
+![Sketch of UI indicating a Typekit connection](../img/publish-export-01.png)
+
 Be especially sure to notify people if this is a blocker to action, such as when someone is trying to publish a project that uses web fonts. Use notification text like this:
 
 Some fonts may need to be purchased before publishing or exporting your project.
 
 Offer an action to “Connect Typekit” before publishing. Taking this action should launch the Connecting to Typekit window:
 
-Sketch showing UI for publishing with fonts from Typekit
+![Sketch showing UI for publishing with fonts from Typekit](../img/publish-export-02.png)
+
 Show the Connecting to Typekit window any time fonts from Typekit are used in a project, even if the user is fully entitled to those fonts. Start by showing the Typekit logo and explaining that publishing and serving web fonts from Typekit requires your Typekit account. Link to details about Typekit in your own application’s help documentation:
 
 # This site will now link to your Typekit account

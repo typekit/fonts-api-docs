@@ -8,7 +8,8 @@ Therefore:
 
 For each font that is missing from a document or system, explain the ways to resolve this problem and allow people to take action.
 
-Sketch for missing fonts indicators in UI
+![Sketch for missing fonts indicators in UI](../img/missing-fonts-view-01.png)
+
 Present the situation in an organized way. Start with an explanation:
 
 Some fonts are missing
@@ -21,7 +22,8 @@ Get from Typekit: If a font is not in your library, but is available on Typekit 
 
 Then list each missing font variation, and for each one offer a drop-down menu full of ways to act.
 
-Sketch of missing fonts UI
+![Sketch of missing fonts UI](../img/missing-fonts-view-01.png)
+
 Use label text to help clarify the choices people make, and set expectations about what will happen next:
 
 Sync font: Creative Cloud will sync this font when you click “Resolve Fonts”.

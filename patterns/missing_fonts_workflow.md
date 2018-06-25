@@ -10,7 +10,8 @@ Offer an option to resolve missing fonts by finding them (if you have them alrea
 
 The workflow is illustrated below, and goes like this: first, fonts are missing (a); next, the missing fonts view prompts you to resolve missing fonts (b); then, if necessary, you get missing fonts at Typekit.com (c); and finally, fonts are present (d).
 
-Missing fonts workflow illustration
+![Missing fonts workflow illustration](../img/missing-fonts-workflow-01.png)
+
 This missing fonts workflow can be triggered by a number of things, such as when a document is opened and contains fonts that are missing, when someone tries to edit a text layer that uses a font that is missing, or when someone chooses a command from your application’s menu.
 
 Make sure people are signed in, so you know which fonts they are entitled to use. See the note on Authentication in our API reference.
