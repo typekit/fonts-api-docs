@@ -1,0 +1,21 @@
+{
+"name": "Typekit",
+"version": "1.0.0",
+"description": "Adobe Typekit Technical Docs",
+"author": "Emily Walpole",
+"view_type": "mdbook",
+"meta_keywords": "adobe i/o,typekit",
+"meta_description": "default description",
+"publish_date": "23/06/2018",
+"show_edit_github_banner": false,
+"base_path": "https://raw.githubusercontent.com",
+"pages": 
+  [
+    {
+    "importedFileName": "index",
+    "pages": [],
+    "path": "typekit/fonts-api-docs/master/overview.md",
+    "title": "Documentation Overview"
+    }
+  ]
+}
