@@ -1,12 +1,12 @@
 #Visual search entry point
 
-Visual search is a powerful tool for finding typefaces, and people have to start somewhere.
+**Visual search is a powerful tool for finding typefaces, and people have to start somewhere**.
 
 People don’t often know the names of the specific typefaces they seek, and don’t always know how to describe them. Browsing for fonts, even with the ability to filter through the selection, can be arduous. Allow people to use images of letters to find typefaces that are visually similar.
 
 Therefore:
 
-Allow people to act on an image, to search for typefaces that are visually similar to the letters they see in that image.
+**Allow people to act on an image, to search for typefaces that are visually similar to the letters they see in that image**.
 
 ![Visual search input ideas: camera button, drag & drop, search field w/ camera icon](../img/pattern-visual-search-entry-point.png)
 
@@ -14,5 +14,4 @@ How someone acts on an image depends on your application’s context. Maybe you 
 
 ![Example of a visual search region, a coordinate-defined area of an image](../img/pattern-visual-search-input-quality-1.png)
 
-
-The visual_search endpoint accepts an image file, as well as optional coordinate values that ensure quality input. See also: visual search coordinates, visual search region detection.
+The [visual_search endpoint](https://docs.typekit.io/#!/%2Fvisual_search/getVariationsByImage) accepts an image file, as well as optional coordinate values that ensure quality input. See also: [visual search coordinates](../api-reference/visual_search_coordinates.md), [visual search region detection](../api-reference/visual_search_region_detection.md).

@@ -9,7 +9,7 @@ The Typekit Platform comprises a set of RESTful APIs, exposing predictable, reso
 ##Have a look around
 Jump to the section that seems most helpful to you:
 
-Need an overview of how to partner with us on a Platform integration? Get started on our [Partnership](parternship.md) page.
+Need an overview of how to partner with us on a Platform integration? Get started on our [Partnership](partnership.md) page.
 Learn about our recommendations for copywriting and styling Typekit-related features in our [Patterns](patterns.md) for good typographic UI.
 Get the full, detailed developer resources for using [Typekit Platform APIs](api_reference.md).
 
