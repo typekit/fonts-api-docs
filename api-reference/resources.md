@@ -1,4 +1,4 @@
-#Resources
+# Resources
 
 [Web Font Loader](https://github.com/typekit/webfontloader#readme)
 Web Font Loader gives you added control when using linked fonts via @font-face. It provides a common interface for loading fonts regardless of the source, and adds a standard set of events that allow you to control the loading experience.

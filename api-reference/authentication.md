@@ -1,4 +1,4 @@
-#Authentication
+# Authentication
 
 The Platform API supports both signed out and authenticated modes. When users are in the signed-out state, only the API key is required. You can authenticate as a user by sending a 'X-Typekit-Token' HTTP header.
 

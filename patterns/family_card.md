@@ -1,4 +1,4 @@
-#family-card
+# family-card
 
 **When people are browsing fonts, they need to see summarized details about a type family**.
 

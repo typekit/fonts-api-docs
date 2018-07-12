@@ -1,4 +1,4 @@
-#Visual search entry point
+# Visual search entry point
 
 **Visual search is a powerful tool for finding typefaces, and people have to start somewhere**.
 

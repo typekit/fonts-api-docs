@@ -1,4 +1,4 @@
-#Design patterns
+# Design patterns
 
 Our growing library of design patterns for the Typekit Platform explains the **reasoning** behind features we offer, and provides abstract **design guidance** based on our experience in working with many diverse integration partners.
 

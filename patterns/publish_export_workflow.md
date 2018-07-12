@@ -1,4 +1,4 @@
-#publish-export-workflow
+# publish-export-workflow
 
 **Fonts used in a design application should persist when work is published or exported**.
 

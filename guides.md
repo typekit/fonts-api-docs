@@ -1,4 +1,4 @@
-#Guide to building a web-based integration that offers web fonts
+# Guide to building a web-based integration that offers web fonts
 
 By integrating Typekit Platform into your web-based tool, you can allow people to connect to their Typekit accounts, select fonts to which they are entitled, use their fonts in your application, and publish their fonts in “kits” for use on the web.
 

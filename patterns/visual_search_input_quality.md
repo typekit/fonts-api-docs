@@ -1,4 +1,4 @@
-#Visual search input quality
+# Visual search input quality
 
 **Images don’t always produce good visual search results**.
 

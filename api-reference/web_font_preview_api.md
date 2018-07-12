@@ -1,4 +1,4 @@
-#Web Font Preview API
+# Web Font Preview API
 
 The goal of the Typekit Web Font Preview API is to allow a web app to quickly preview content using a set of fonts from Typekit without actually creating and publishing a kit in order to do it. It was created as an alternative to other approaches that are less ideal.
 

@@ -1,4 +1,4 @@
-#missing-fonts-workflow
+# missing-fonts-workflow
 
 **Sometimes fonts used in a document or system are missing**.
 

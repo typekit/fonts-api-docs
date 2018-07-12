@@ -1,4 +1,4 @@
-#Specific terminology
+# Specific terminology
 
 ## Browse Modes
 Currently we have options to browse in Default mode (all but Japanese-specific glyphs in a font), Japanese (only the Japanese glyph subset), and All (all glyphs and the largest font files). This affects the layout and content of the filters, which are designed for specific browsing needs for each mode, and will also limit the number of fonts available.

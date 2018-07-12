@@ -1,4 +1,4 @@
-#Browse fonts
+# Browse fonts
 
 **Choosing type for a project is hard when there are many options**.
 

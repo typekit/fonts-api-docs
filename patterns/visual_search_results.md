@@ -1,4 +1,4 @@
-#Visual search results
+# Visual search results
 
 **Evaluating visual search results is harder if you lose context or don’t know what the next step is**.
 

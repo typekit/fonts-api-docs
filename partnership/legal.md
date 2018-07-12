@@ -1,4 +1,4 @@
-#Legal
+# Legal
 
 The Typekit Platform enables font browsing, syncing, and kit publishing with Typekit fonts in mobile, web, and desktop apps. We’ve worked hard to make access to these activities free of obstacles, allowing you to get fonts in front of as many people as possible while still allowing us to protect the fonts from unauthorized use.
 
@@ -10,7 +10,7 @@ When developing an integration with Typekit in your app
 
 All good? Let’s get into what you can do from here.
 
-##Fonts for Previewing
+## Fonts for Previewing
 The Typekit Platform allows apps to load any available Typekit font for preview purposes.
 
 * UIs render a sample of a font in order to help a user evaluate its qualities and decide whether they want to get and use it.
@@ -27,10 +27,10 @@ For preview fonts that an app loads through Typekit’s ](https://docs.typekit.i
 * Fonts are only accessible from a small set of domains that you must specify when setting up your access to this service.
 * Never use the web font Preview API to load web fonts for published websites; a kit must be used instead.
 
-##Fonts for Authoring
+## Fonts for Authoring
 The Platform allows apps to load fonts for authoring purposes under specific circumstances that depend on the type of use.
 
-###Sync fonts
+### Sync fonts
 Full sync fonts for document and media authoring purposes can only be downloaded:
 
 * for an authenticated and entitled user, and
@@ -43,7 +43,7 @@ This means if your app seeks to add Typekit sync fonts to a user’s system font
 
 At that point, the user may use the fonts as they would any other Typekit fonts synced to their device(s) by any other apps/service. See our [help page on font licensing](https://helpx.adobe.com/typekit/using/font-licensing.html) for a review of how end users may use sync fonts.
 
-###Web fonts
+### Web fonts
 Full WOFF web fonts for web authoring purposes can only be downloaded for an authenticated user, and only by approved Adobe web authoring apps.
 
 Full web fonts loaded by a web app through Typekit’s [web font Preview API](../api-reference/web_font_preview_api.md) for web authoring purposes ​can be loaded for an **unknown, unauthenticated user**. (The fonts are protected, as they are accessible only from a small set of domains that you must specify when setting up your access to that service.)
