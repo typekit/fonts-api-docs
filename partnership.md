@@ -1,4 +1,4 @@
-#Starting a new integration with Typekit
+# Starting a new integration with Typekit
 
 Welcome to our partner network. We love spreading the power of great typography, and look forward to hearing about what you’re working on. Here’s how to get started.
 
