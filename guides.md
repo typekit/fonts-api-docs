@@ -8,15 +8,15 @@ This guide will explain key points of integrating the Typekit Platform into your
 
 Browse fonts view:
 
-![Sketch showing browse fonts view](../img/pattern-sketch-browse-fonts.png)
+![Sketch showing browse fonts view](/img/pattern-sketch-browse-fonts.png)
 
 Family detail view:
 
-![Sketch showing grid and list view](../img/family-detail-view-01.png)
+![Sketch showing grid and list view](/img/family-detail-view-01.png)
 
 Publish/export workflow:
 
-![Sketch showing publish export workflow](../img/publish-export-02.png)
+![Sketch showing publish export workflow](/img/publish-export-02.png)
 
 ## Register with Typekit Platform
 
