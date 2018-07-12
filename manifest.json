@@ -9,13 +9,217 @@
 "publish_date": "23/06/2018",
 "show_edit_github_banner": false,
 "base_path": "https://raw.githubusercontent.com",
-"pages": 
+"pages":
   [
     {
-    "importedFileName": "index",
-    "pages": [],
-    "path": "typekit/fonts-api-docs/master/overview.md",
-    "title": "Documentation Overview"
+        "importedFileName": "index",
+        "pages": [],
+        "path": "typekit/fonts-api-docs/master/overview.md",
+        "title": "Documentation overview"
+    },
+    {
+        "importedFileName": "partnership",
+        "pages": [
+            {
+                "importedFileName": "legal",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/partnership/legal.md",
+                "title": "Guidelines for permitted use"
+            },
+            {
+                "importedFileName": "approval_process",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/partnership/approval_process.md",
+                "title": "Approval process"
+            }
+        ],
+        "path": "typekit/fonts-api-docs/master/partnership.md",
+        "title": "Partnership"
+    },
+    {
+        "importedFileName": "patterns",
+        "pages": [
+            {
+                "importedFileName": "browse_fonts",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/browse_fonts.md",
+                "title": "Browse fonts"
+            },
+            {
+                "importedFileName": "family_detail_view",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/family_detail_view.md",
+                "title": "Family detail view"
+            },
+            {
+                "importedFileName": "font_action_button",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/font_action_button.md",
+                "title": "Font action button"
+            },
+            {
+                "importedFileName": "missing_fonts_workflow",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/missing_fonts_workflow.md",
+                "title": "Missing fonts workflow"
+            },
+            {
+                "importedFileName": "missing_fonts_view",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/missing_fonts_view.md",
+                "title": "Missing fonts view"
+            },
+            {
+                "importedFileName": "publish_export_workflow",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/publish_export_workflow.md",
+                "title": "Publish/export workflow"
+            },
+            {
+                "importedFileName": "filter_menu",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/filter_menu.md",
+                "title": "Filter menu"
+            },
+            {
+                "importedFileName": "family_card",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/family_card.md",
+                "title": "Family card"
+            },
+            {
+                "importedFileName": "visual_search_entry_point",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/visual_search_entry_point.md",
+                "title": "Visual search entry point"
+            },
+            {
+                "importedFileName": "visual_search_input_quality",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/visual_search_input_quality.md",
+                "title": "Visual search input quality"
+            },
+            {
+                "importedFileName": "visual_search_results",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/patterns/visual_search_results.md",
+                "title": "Visual search results"
+            }
+        ],
+        "path": "typekit/fonts-api-docs/master/patterns.md",
+        "title": "Patterns"
+    },
+    {
+            "importedFileName": "guides",
+            "pages": [
+                {
+                    "importedFileName": "guides",
+                    "pages": [],
+                    "path": "typekit/fonts-api-docs/master/guides.md",
+                    "title": "Web integration with web fonts"
+                }
+            ],
+            "path": "typekit/fonts-api-docs/master/guides.md",
+            "title": "Guides"
+    },
+    {
+        "importedFileName": "api_reference",
+        "pages": [
+            {
+                "importedFileName": "api_key",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/api_key.md",
+                "title": "API Key"
+            },
+            {
+                "importedFileName": "authentication",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/authentication.md",
+                "title": "Authentication"
+            },
+            {
+                "importedFileName": "cors",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/cors.md",
+                "title": "Cross Origin Resource Sharing (CORS)"
+            },
+            {
+                "importedFileName": "discoverability",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/discoverability.md",
+                "title": "Discoverability"
+            },
+            {
+                "importedFileName": "error_handling",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/error_handling.md",
+                "title": "Error handling"
+            },
+            {
+                "importedFileName": "pagination",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/pagination.md",
+                "title": "Pagination"
+            },
+            {
+                "importedFileName": "rate_limiting",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/rate_limiting.md",
+                "title": "Rate limiting"
+            },
+            {
+                "importedFileName": "resources",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/resources.md",
+                "title": "Resources"
+            },
+            {
+                "importedFileName": "specific_terminology",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/specific_terminology.md",
+                "title": "Specific terminology"
+            },
+            {
+                "importedFileName": "visual_search_coordinates",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/visual_search_coordinates.md",
+                "title": "Visual search coordinates"
+            },
+            {
+                "importedFileName": "visual_search_region_detection",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/visual_search_region_detection.md",
+                "title": "Visual search region detection"
+            },
+            {
+                "importedFileName": "web_font_preview_api",
+                "pages": [],
+                "path": "typekit/fonts-api-docs/master/api-reference/web_font_preview_api.md",
+                "title": "Web Font Preview API"
+            }
+
+        ],
+        "path": "typekit/fonts-api-docs/master/api_reference.md",
+        "title": "API Reference"
+    },
+    {
+        "importedFileName": "demo_application",
+        "pages": [],
+        "path": "typekit/fonts-api-docs/master/demo_application.md",
+        "title": "Demo application"
+    },
+    {
+        "importedFileName": "demo_application",
+        "pages": [],
+        "path": "typekit/fonts-api-docs/master/demo_application.md",
+        "title": "Demo application"
+    },
+    {
+        "importedFileName": "typekit_assets",
+        "pages": [],
+        "path": "typekit/fonts-api-docs/master/typekit_assets.md",
+        "title": "Typekit logo & icon assets"
     }
+
   ]
 }
