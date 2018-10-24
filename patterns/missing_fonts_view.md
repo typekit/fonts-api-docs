@@ -1,4 +1,4 @@
-# missing-fonts-view
+# Missing fonts view
 
 **When fonts are missing, people need to find them, get them, or replace them**.
 

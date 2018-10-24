@@ -1,4 +1,4 @@
-# font-action-button
+# Font action button
 
 **When people find a font they want to use, they need a way to take action**.
 

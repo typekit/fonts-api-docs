@@ -1,4 +1,4 @@
-# missing-fonts-workflow
+# Missing fonts workflow
 
 **Sometimes fonts used in a document or system are missing**.
 
@@ -18,7 +18,7 @@ Make sure people are signed in, so you know which fonts they are entitled to use
 
 The [missing fonts view](missing_fonts_view.md) is a pop-up window or modal view in your app. It explains that fonts are missing, and how to resolve them. If a font is not in a person’s library, but is available on Typekit by upgrading or purchasing a license from Typekit Marketplace, this view offers to resolve the missing font at Typekit.com. Resolving missing fonts at Typekit.com happens in a browser window, at a URL provided by the Typekit API.
 
-While people are getting fonts at Typekit.com, have your app poll the Typekit Platform API to check for entitlement changes. Keep the missing fonts view visible until missing fonts are resolved, or until someone dismisses it, so you can show any such entitlement changes. For example, a trial Typekit user may need to upgrade for access  to certain fonts; upon upgrading, the fonts will be available to sync, but will not sync automatically. The missing fonts view should remain visible because while this user is now entitled, they have not yet synced to resolve the missing fonts.
+While people are getting fonts at Typekit.com, have your app poll the Typekit Platform API to check for entitlement changes. Keep the missing fonts view visible until missing fonts are resolved, or until someone dismisses it, so you can show any such entitlement changes. For example, a trial Typekit user may need to upgrade for access to certain fonts; upon upgrading, the fonts will be available to sync, but will not sync automatically. The missing fonts view should remain visible because while this user is now entitled, they have not yet synced to resolve the missing fonts.
 
 After a short period of time, you can stop polling. If the person has given up or become distracted, they can initiate the missing fonts workflow again later.
 

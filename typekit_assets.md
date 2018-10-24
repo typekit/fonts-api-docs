@@ -1,4 +1,4 @@
-#typekit-logo---icon-assets
+#Typekit logo & icon assets
 
 The Typekit logo mark is available at https://platform-assets.typekit.net/typekit-logo.svg. You should use this image in your integration to indicate the fonts you’re providing are from Typekit — for example, beside Typekit fonts in the drop-down menus of a missing fonts view.
 
