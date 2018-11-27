@@ -20,11 +20,11 @@ Publish/export workflow:
 
 ## Register with Typekit Platform
 
-The first thing to do is register with us by using the Adobe I/O console to create an integration. Then add an authentication component from the Creative SDK, and request a Web Font Preview API token. [This page](partnership.md) explains how to do all of that — start at the “Register with us” section. Once you have done that stuff, return to this guide.
+The first thing to do is register with us by using the Adobe I/O console to create an integration. Then add an authentication component and request a Web Font Preview API token. [This page](partnership.md) explains how to do all of that — start at the “Register with us” section. Once you have done that stuff, return to this guide.
 
 ## Introduce your users to Typekit
 
-As part of your application’s typography tools (for picking a font, choosing a size, etc.), offer an action to add more fonts from Typekit. Tell people what Typekit is (a service for finding, getting, and using fonts), and that they will need to sign in with their Adobe ID to access Typekit fonts. Prompt them to sign in (or get an Adobe ID) using the [User Auth UI](https://creativesdk.adobe.com/docs/web/#/articles/userauthui/index.html) component of Adobe’s Creative SDK.
+As part of your application’s typography tools (for picking a font, choosing a size, etc.), offer an action to add more fonts from Typekit. Tell people what Typekit is (a service for finding, getting, and using fonts), and that they will need to sign in with their Adobe ID to access Typekit fonts. Prompt them to sign in (or get an Adobe ID).
 
 You’re going to need to have this auth token for much of what you want to do in an integration. So keep it handy.
 

@@ -34,12 +34,12 @@ The Platform allows apps to load fonts for authoring purposes under specific cir
 Full sync fonts for document and media authoring purposes can only be downloaded:
 
 * for an authenticated and entitled user, and
-* by the Adobe Creative Cloud desktop app and the Adobe Creative SDK.
+* by the Adobe Creative Cloud desktop app.
 
-This means if your app seeks to add Typekit sync fonts to a user’s system fonts (on Mac or Windows) or directly to a Creative SDK-integrated app (on iOS or Android), you should:
+This means if your app seeks to add Typekit sync fonts to a user’s system fonts (on Mac or Windows), you should:
 
 * add them to the user’s Typekit “sync selection” via the /selections endpoint, and then
-* rely on the Creative Cloud desktop app or the Typekit component of the Creative SDK to actually sync the fonts to the user’s device(s).
+* rely on the Creative Cloud desktop app to actually sync the fonts to the user’s device(s).
 
 At that point, the user may use the fonts as they would any other Typekit fonts synced to their device(s) by any other apps/service. See our [help page on font licensing](https://helpx.adobe.com/typekit/using/font-licensing.html) for a review of how end users may use sync fonts.
 

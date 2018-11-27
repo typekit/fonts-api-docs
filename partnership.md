@@ -1,18 +1,13 @@
 # Starting a new integration with Typekit
 
-Welcome to our partner network. We love spreading the power of great typography, and look forward to hearing about what you’re working on. Here’s how to get started.
-
-## Choose between Typekit and the Creative SDK
-The Typekit Platform described here gives you direct access to Typekit APIs, allowing you to build any sort of Typekit integration you can imagine on web, mobile, or desktop – really, anywhere you can use RESTful APIs. If you’re looking for something a bit more plug and play, we also offer Typekit components in Adobe’s [Creative SDK](https://creativesdk.adobe.com/docs.html) for iOS and Android, allowing you to integrate common Typekit functionalities delivered through ready-to-go UI components with consistent design.
-
-To work directly with Typekit Platform, read on for details on how to register with us. To use the Typekit components in the Creative SDK, visit the [Creative SDK documentation](https://creativesdk.adobe.com/docs.html).
+Welcome to our partner network. We love spreading the power of great typography, and look forward to hearing about what you’re working on. The Typekit Platform described here gives you direct access to Typekit APIs, allowing you to build any sort of Typekit integration you can imagine on web, mobile, or desktop – really, anywhere you can use RESTful APIs. Read on for details on how to register with us.
 
 ## Register with us
 ### Use the Console to create an integration
 If you want to jump right in, create an integration through the [Console](http://adobe.io/console) and add Typekit as a service. You’ll automatically get a developer key that you can use to start making [API requests](http://docs.typekit.io/) in development mode immediately. While in development mode, your integration can only be used in conjunction with 25 unique Adobe IDs and up to 1,000 pageviews per day of web font previews using our [Preview API](/api-reference/web_font_preview_api.md), but you’ll be able to remove these limits before you launch your integration by following our [approval process](/partnership/approval_process.md).
 
-### Authenticate using the Creative SDK
-If your integration aims to give users access to their Typekit accounts by signing in with an Adobe ID, you’ll also need to integrate an [authentication component from the Creative SDK](https://creativesdk.adobe.com/docs.html). To get access to the Creative SDK, use the [Console](http://adobe.io/console) to add it to your integration as a service along side Typekit.
+### Authenticate
+If your integration aims to give users access to their Typekit accounts by signing in with an Adobe ID, you’ll also need to integrate an [authentication component](https://www.adobe.io/authentication.html).
 
 ### Request a web font Preview API token
 If you need to preview Typekit web fonts in your integration, you'll also need a token for Typekit's web font Preview API. To request your Preview API token, head over to the [Console](http://adobe.io/console) where, in an integration’s Services tab, you'll find a token generator in the “Configure Typekit Platform” area.
