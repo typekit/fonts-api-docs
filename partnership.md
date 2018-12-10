@@ -7,7 +7,7 @@ Welcome to our partner network. We love spreading the power of great typography,
 If you want to jump right in, create an integration through the [Console](http://adobe.io/console) and add Typekit as a service. You’ll automatically get a developer key that you can use to start making [API requests](http://docs.typekit.io/) in development mode immediately. While in development mode, your integration can only be used in conjunction with 25 unique Adobe IDs and up to 1,000 pageviews per day of web font previews using our [Preview API](/api-reference/web_font_preview_api.md), but you’ll be able to remove these limits before you launch your integration by following our [approval process](/partnership/approval_process.md).
 
 ### Authenticate
-If your integration aims to give users access to their Typekit accounts by signing in with an Adobe ID, you’ll also need to integrate an [authentication component](https://www.adobe.io/authentication.html).
+If your integration aims to give users access to their Typekit accounts by signing in with an Adobe ID, you’ll also need to integrate an [authentication component](https://www.adobe.io/authentication/auth-methods.html#!adobeio/adobeio-documentation/master/auth/OAuth2.0Endpoints/web-oauth2.0-guide.md).
 
 ### Request a web font Preview API token
 If you need to preview Typekit web fonts in your integration, you'll also need a token for Typekit's web font Preview API. To request your Preview API token, head over to the [Console](http://adobe.io/console) where, in an integration’s Services tab, you'll find a token generator in the “Configure Typekit Platform” area.

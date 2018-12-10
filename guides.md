@@ -24,7 +24,7 @@ The first thing to do is register with us by using the Adobe I/O console to crea
 
 ## Introduce your users to Typekit
 
-As part of your application’s typography tools (for picking a font, choosing a size, etc.), offer an action to add more fonts from Typekit. Tell people what Typekit is (a service for finding, getting, and using fonts), and that they will need to sign in with their Adobe ID to access Typekit fonts. Prompt them to sign in (or get an Adobe ID).
+As part of your application’s typography tools (for picking a font, choosing a size, etc.), offer an action to add more fonts from Typekit. Tell people what Typekit is (a service for finding, getting, and using fonts), and that they will need to [sign in with their Adobe ID](https://www.adobe.io/authentication/auth-methods.html#!adobeio/adobeio-documentation/master/auth/OAuth2.0Endpoints/web-oauth2.0-guide.md) to access Typekit fonts. Prompt them to sign in (or get an Adobe ID).
 
 You’re going to need to have this auth token for much of what you want to do in an integration. So keep it handy.
 
