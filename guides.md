@@ -18,7 +18,7 @@ Publish/export workflow:
 
 ![Sketch showing publish export workflow](/img/publish-export-02.png)
 
-## Register with Typekit Platform
+## Register, then add both auth mechanisms
 
 The first thing to do is register with us by using the Adobe I/O console to create an integration. Then add an authentication component and request a Web Font Preview API token. [This page](partnership.md) explains how to do all of that — start at the “Register with us” section. Once you have done that stuff, return to this guide.
 
