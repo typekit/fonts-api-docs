@@ -13,4 +13,4 @@ Need an overview of how to partner with us on a Platform integration? Get starte
 Learn about our recommendations for copywriting and styling Typekit-related features in our [Patterns](patterns.md) for good typographic UI.
 Get the full, detailed developer resources for using [Typekit Platform APIs](api_reference.md).
 
-Questions? Send us an <a href="mailto:support+partners@typekit.com">email</a>. We look forward to working with you!
+Questions? Send us an <a href="mailto:fontintegrations@adobe.com">email</a>. We look forward to working with you!

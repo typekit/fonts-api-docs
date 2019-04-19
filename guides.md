@@ -2,7 +2,7 @@
 
 By integrating Typekit Platform into your web-based tool, you can allow people to connect to their Typekit accounts, select fonts to which they are entitled, use their fonts in your application, and publish their fonts in “kits” for use on the web.
 
-_Note: You can also offer different styles of Typekit integration. For example, you can give users access to additional fonts by offering upgrade and purchase workflows. You can also provide access to Typekit on behalf of your users (whether or not they have Typekit accounts). Please [contact us](mailto:support+partners@typekit.com) if you’re interested in these different styles of integration_.
+_Note: You can also offer different styles of Typekit integration. For example, you can give users access to additional fonts by offering upgrade and purchase workflows. You can also provide access to Typekit on behalf of your users (whether or not they have Typekit accounts). Please [contact us](mailto:fontintegrations@adobe.com) if you’re interested in these different styles of integration_.
 
 This guide will explain key points of integrating the Typekit Platform into your application, including building a Typekit browsing UI, rendering fonts on your application’s design surface, and publishing fonts for use on the web.
 

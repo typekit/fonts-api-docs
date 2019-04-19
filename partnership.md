@@ -20,13 +20,13 @@ If you need to preview Typekit web fonts in your integration, you'll also need a
 ## Review our documentation
 Take a look at our [design patterns](patterns.md) for ideas about how to integrate Adobe Typekit into your application, our [API reference](api_reference.md) for details on how to build it, and our [demo application](http://demo.typekit.io/) that shows patterns and APIs working together.
 
-While you’re building your product, you can always reach out to us with questions. Send your email to [support+partners@typekit.com](mailto:support+partners@typekit.com) and we’ll get someone on the case.
+While you’re building your product, you can always reach out to us with questions. Send your email to [fontintegrations@adobe.com](mailto:fontintegrations@adobe.com) and we’ll get someone on the case.
 
 ## Keep everything legal
 Both Typekit and Adobe terms of use apply to your use of the Typekit Platform. If you have any questions about how to properly use fonts from Typekit, we’re happy to get you sorted — start with our [guidelines for permitted use](/partnership/legal.md).
 
 ## Ready to launch?
-Before you go live, we need to approve your use of Typekit. Send a note to [support+partners@typekit.com](support+partners@typekit.com), and we’ll work with you to review how you’re using Typekit in your product or service.
+Before you go live, we need to approve your use of Typekit. Send a note to [fontintegrations@adobe.com](mailto:fontintegrations@adobe.com), and we’ll work with you to review how you’re using Typekit in your product or service.
 
 ### About our approval process
 We’re mainly looking for issues that would put our foundries at risk (of not getting paid properly for their fonts) or our infrastructure under pressure (something that would place enough stress on the system that we’d fear a performance hit). If we find something that concerns us, we’ll discuss it with you like regular people. [See more about what we're looking for](/partnership/approval_process.md).
@@ -34,7 +34,7 @@ We’re mainly looking for issues that would put our foundries at risk (of not g
 After you’re approved, remember to let us know when it’s launch day! We often feature new product integrations on the [Typekit blog](http://blog.typekit.com/) and may [tweet](http://twitter.com/typekit) about them. We won’t announce anything until you’re ready, of course.
 
 ## Planning for the future
-We definitely don’t expect your application to stay static forever, and we hope to grow along with you. If you already have an integration and are considering a substantial change to the way the service works, we’re always happy to chat about how to make the relaunch as smooth as possible. Send an [email](mailto:support+partners@typekit.com) our way anytime.
+We definitely don’t expect your application to stay static forever, and we hope to grow along with you. If you already have an integration and are considering a substantial change to the way the service works, we’re always happy to chat about how to make the relaunch as smooth as possible. Send an [email](mailto:fontintegrations@adobe.com) our way anytime.
 
 ### Something break?
-If you notice that something doesn’t seem to be working right, or if you’re getting reports from your customers, our support team is more than happy to help you out. [Email us](mailto:support+partners@typekit.com) anytime — yes, even after your launch — and we’ll get right on the issue.
+If you notice that something doesn’t seem to be working right, or if you’re getting reports from your customers, our support team is more than happy to help you out. [Email us](mailto:fontintegrations@adobe.com) anytime — yes, even after your launch — and we’ll get right on the issue.
