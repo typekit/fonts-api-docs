@@ -9,7 +9,7 @@ To work directly with Typekit Platform, read on for details on how to register w
 
 ## Register with us
 ### Use the Console to create an integration
-If you want to jump right in, create an integration through the [Console](http://adobe.io/console) and add Typekit as a service. You’ll automatically get a developer key that you can use to start making [API requests](http://docs.typekit.io/) in development mode immediately. While in development mode, your integration can only be used in conjunction with 25 unique Adobe IDs and up to 1,000 pageviews per day of web font previews using our [Preview API](/api-reference/web_font_preview_api.md), but you’ll be able to remove these limits before you launch your integration by following our [approval process](/partnership/approval_process.md).
+If you want to jump right in, create an integration through the [Console](http://adobe.io/console) and add Typekit as a service. You’ll automatically get a developer key that you can use to start making [API requests](http://docs.typekit.io/) in development mode immediately. While in development mode, your integration can only be used in conjunction with 25 unique Adobe IDs and up to 1,000 pageviews per day of web font previews using our [Preview API](api-reference/web_font_preview_api.md), but you’ll be able to remove these limits before you launch your integration by following our [approval process](partnership/approval_process.md).
 
 ### Authenticate using the Creative SDK
 If your integration aims to give users access to their Typekit accounts by signing in with an Adobe ID, you’ll also need to integrate an [authentication component from the Creative SDK](https://creativesdk.adobe.com/docs.html). To get access to the Creative SDK, use the [Console](http://adobe.io/console) to add it to your integration as a service along side Typekit.
@@ -23,13 +23,13 @@ Take a look at our [design patterns](patterns.md) for ideas about how to integra
 While you’re building your product, you can always reach out to us with questions. Send your email to [fontintegrations@adobe.com](mailto:fontintegrations@adobe.com) and we’ll get someone on the case.
 
 ## Keep everything legal
-Both Typekit and Adobe terms of use apply to your use of the Typekit Platform. If you have any questions about how to properly use fonts from Typekit, we’re happy to get you sorted — start with our [guidelines for permitted use](/partnership/legal.md).
+Both Typekit and Adobe terms of use apply to your use of the Typekit Platform. If you have any questions about how to properly use fonts from Typekit, we’re happy to get you sorted — start with our [guidelines for permitted use](partnership/legal.md).
 
 ## Ready to launch?
 Before you go live, we need to approve your use of Typekit. Send a note to [fontintegrations@adobe.com](mailto:fontintegrations@adobe.com), and we’ll work with you to review how you’re using Typekit in your product or service.
 
 ### About our approval process
-We’re mainly looking for issues that would put our foundries at risk (of not getting paid properly for their fonts) or our infrastructure under pressure (something that would place enough stress on the system that we’d fear a performance hit). If we find something that concerns us, we’ll discuss it with you like regular people. [See more about what we're looking for](/partnership/approval_process.md).
+We’re mainly looking for issues that would put our foundries at risk (of not getting paid properly for their fonts) or our infrastructure under pressure (something that would place enough stress on the system that we’d fear a performance hit). If we find something that concerns us, we’ll discuss it with you like regular people. [See more about what we're looking for](partnership/approval_process.md).
 
 After you’re approved, remember to let us know when it’s launch day! We often feature new product integrations on the [Typekit blog](http://blog.typekit.com/) and may [tweet](http://twitter.com/typekit) about them. We won’t announce anything until you’re ready, of course.
 
