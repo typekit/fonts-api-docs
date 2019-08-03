@@ -1,3 +1,7 @@
+# Important note, please read me first️!
+
+We are planning updates to the platform documentation, and are not currently accepting new integrations. Existing third-party integrations will continue to work while we bring things up to date.
+
 # Getting started with Typekit Platform
 
 The Typekit Platform is a combination of design advice, APIs, and assets provided by Adobe Typekit so that products and services can integrate Typekit to help people know, find, get, organize, and use fonts.
